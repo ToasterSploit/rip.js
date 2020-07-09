@@ -27,7 +27,7 @@ while (0 < 10) {
 
 	if (y < 0) {
 		upOrDown = false
-	} else if (y > 400) {
+	} else if (y > 1000) {
 		upOrDown = true
 	}
 	myWindow = window.open("", "", "width=150, height=150");
