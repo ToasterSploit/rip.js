@@ -1,0 +1,2 @@
+# rip.js
+basically rip
