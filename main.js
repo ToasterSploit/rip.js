@@ -1,3 +1,5 @@
+alert("Are you shure you want to continue")
+alert("this is your last warn")
 var myWindow
 var leftOrRight = false
 var upOrDown = false
